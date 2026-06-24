@@ -63,7 +63,7 @@ GEMINI_API_KEY="your-gemini-api-key"
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/kibriahq/recipeverseai-app.git
+   git clone https://github.com/shivaniverma2004/recipeVerseAI_.git
    cd recipeverseai-app
    ```
 
